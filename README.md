@@ -23,7 +23,7 @@ I am an MCA gradute passionate about Data Analytics, Business Intelligence, and 
   - Microsoft Power BI
   - Microsoft Excel
   - MySQL
-  - SQl
+  - SQL
  
 ### Programming & Libraries
   - Python
