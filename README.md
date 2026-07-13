@@ -15,7 +15,7 @@ I am an MCA gradute passionate about Data Analytics, Business Intelligence, and 
 - Interested in Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Development, and Business Intelligence
 - Building real-world data analytics projects and improving my analytical skills
 
-  ---
+---
 
 ## Technical Skills
 
