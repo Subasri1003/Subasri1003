@@ -68,6 +68,9 @@ Developed an interactive Power BI dashboard to analyze pizza sales performance a
 - Analyzed sales trends, product performance, and category-wise sales
 - Built interactive dashboards using Power BI visuals and filters
 
+**GitHub Repository**
+https://github.com/Subasri1003/Powerbi_Pizza_Sales
+
 ---
 
 ## Power BI Weather Dashboard
@@ -86,6 +89,9 @@ Created a real-time weather dashboard using Power BI by integrating weather data
 - Created KPI cards for temperature, humidity, wind speed, and weather conditions
 - Developed interactive visualizations using Power BI
 - Used DAX measures for analytical calculations
+
+**GitHub Repository**
+https://github.com/Subasri1003/PowerBI_Weather_Dashboard
 
 ---
 
@@ -106,6 +112,9 @@ Performed exploratory data analysis on COVID-19 datasets to identify trends and 
 - Created visualizations to analyze confirmed cases, recoveries, and deaths
 - Generated insights using Python data analysis libraries
 
+**GitHub Repository**
+https://github.com/Subasri1003/Covid19-Analysis-Using-Python
+
 ---
 
 ## Amazon Sales Dashboard
@@ -124,6 +133,9 @@ Built an interactive sales dashboard to analyze Amazon sales performance.
 - Designed interactive charts and dashboards
 - Generated insights for business performance improvement
 
+**GitHub Repository**
+https://github.com/Subasri1003/Powerbi-amazon-sales
+
 ---
 
 ## Loan Analysis Dashboard
@@ -141,13 +153,37 @@ Developed a dashboard to analyze loan data and identify customer and loan perfor
 - Created Power BI visualizations
 - Analyzed loan status, customer segments, and key metrics
 
+**GitHub Repository**
+https://github.com/Subasri1003/Loan-Analysis-Dashboard-using-SQL-and-Power-BI
+
+---
+
+## Cryptocurrency Market Analysis Dashboard
+
+**Tools Used:**
+Python | SQL(MySQL) | Power BI | CoinGecko API | Pandas | NumPy
+
+**Project Overview:**
+
+Built a real-time cryptocurrency analytics dashboard to track market trends and key performance metrics.
+
+**Key Features:**
+
+- Extracted real-time data using CoinGecko API
+- Performed data cleaning and analysis using Python & SQL
+- Built interactive Power BI dashboards
+- Visualized Market Cap, Volume, Price Trends, and Top 10 Cryptocurrencies
+
+**GitHub Repository**
+https://github.com/Subasri1003/crypto-market-analytics-dashboard
+
 ---
 
 # Certifications
 
 - Power BI Certification – VKR Solutions
-- Data Analytics Internship Certification
-- Data Visualization Internship Certification
+- Data Analytics Internship Certification - Cognetix Global Technology LLP
+- Data Visualization Internship Certification - Cognifyz Technologies
 
 ---
 
